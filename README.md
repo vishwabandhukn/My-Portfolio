@@ -41,12 +41,7 @@ Place your PDF resume in the `public` folder and name it `resume.pdf`. The downl
 3.  Vercel will automatically detect Vite and configure the build settings.
 4.  Deploy!
 
-### Netlify
-1.  Push your code to GitHub.
-2.  Import the repository in Netlify.
-3.  Build command: `npm run build`
-4.  Publish directory: `dist`
-
+ 
 ## 🎨 Features
 -   **Dark Mode**: Persisted in local storage.
 -   **Animations**: Smooth entrance and scroll animations using Framer Motion.
