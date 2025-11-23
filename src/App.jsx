@@ -771,7 +771,7 @@ function App() {
     return (
         <div className="min-h-screen bg-white dark:bg-gray-900 transition-colors duration-300 font-sans selection:bg-blue-100 dark:selection:bg-blue-900 relative">
             <ParticleBackground darkMode={darkMode} />
-            <Navbar darkMode={darkMode} toggleTheme={() => setDarkMode(!darkMode)} />
+            <Navbar darkMode={darkMode} toggleTheme={() => setDarkMode(darkMode)} />
 
             <main>
                 <Hero />
