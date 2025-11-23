@@ -49,7 +49,7 @@ const CODING_PROFILES = [
 const EDUCATION_DATA = [
     {
         id: 1,
-        institution: "High School",
+        institution: "Oxford High School",
         degree: "Secondary Education",
         year: "2020",
         score: "83.53%"
@@ -57,9 +57,9 @@ const EDUCATION_DATA = [
 
     {
         id: 2,
-        institution: "Pre-University College",
+        institution: "B Lingaiah Res Pre-University College",
         degree: "Pre-University Education",
-        year: "2021 — 2022",
+        year: "2022",
         score: "86%"
     },
     {
